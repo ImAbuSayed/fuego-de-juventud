@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-juventud/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Fuego de juventud](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-juventud/) |
+| **Get License** | [Obtain a Music License for Fuego de juventud](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-juventud/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit e141465b0fd27b33ec241594038ee976d1c7b963
+> Dime si esta noche tú te escapas conmigo
+> Que este fuego de juventud es nuestro abrigo
+> You know that I want you, lo noto en tu mirar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
