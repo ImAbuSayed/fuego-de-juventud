@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego de juventud
+
+This log tracks the cryptographic history and versioning for the song **Fuego de juventud** (fuego-de-juventud).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:55:34.893888 | `v1` | `598bc2c7d2d9200214f5a0c7c9cb838581274fa3952faba2b903e2a34243d9a4` | `2f074ef8bd7ed31a0c813db46d95e20c72d284f7411d77c24047612fb3535ccd` | `2026-06-17_fuego-de-juventud-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
